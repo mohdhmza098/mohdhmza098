@@ -1,4 +1,4 @@
-![Developer Portfolio](Neon Developer Portfolio Nightscape.png)
+![Developer Portfolio](./Neon%20Developer%20Portfolio%20Nightscape.png)
 
 <div align="center">
 
@@ -99,15 +99,7 @@ I'm always happy to connect with fellow learners, developers and technology enth
     <img src="https://img.shields.io/badge/LinkedIn-Mohd_Hamza-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
   <a href="mailto:mohdhmza098@gmail.com">
-    <img src="https://img.shields.io/badge/Email-mohdhmza098%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
-
-<div align="center">
-
-### ✨ Learn • Build • Grow ✨
-
-*Every day is an opportunity to learn something new.*
-
-</div>
 
