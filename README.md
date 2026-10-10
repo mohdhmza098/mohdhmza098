@@ -1,22 +1,25 @@
 
+
 <div align="center">
 
-# 👋 Hi, I'm Mohd Hamza
+# Hey there! 👋 I'm Mohd Hamza
 
-### 💻 Aspiring Software Developer | B.Tech CSE — Data Science & AI
+### 💻 Aspiring Software Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Aspiring+Software+Developer;Java+%7C+Frontend+%7C+Full+Stack;Exploring+AI+%26+Machine+Learning;Learning+Today%2C+Building+Tomorrow!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Software+Development+Enthusiast;Java+%7C+Frontend+%7C+Full+Stack;Exploring+Artificial+Intelligence;Always+Learning+Something+New!" alt="Typing Animation" />
 
-📍 Lucknow, India · 🎓 Class of 2027
+🎓 B.Tech in Data Science & Artificial Intelligence  
+🏫 Integral University, Lucknow  
+📍 Lucknow, India | Class of 2027
 
-<a href="https://github.com/mohdhmza098">
-  <img src="https://img.shields.io/badge/GitHub-mohdhmza098-181717?style=for-the-badge&logo=github" alt="GitHub"/>
-</a>
 <a href="https://www.linkedin.com/in/hamza-khan-b6175a335/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="mailto:mohdhmza098@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <img src="https://img.shields.io/badge/Gmail-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://github.com/mohdhmza098">
+  <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 </div>
@@ -25,111 +28,86 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Currently pursuing a **B.Tech in Data Science & Artificial Intelligence at Integral University, Lucknow**.
-- 💻 Interested in software development, Java backend development, frontend and full-stack technologies.
-- 🤖 Exploring AI, machine learning and data-driven applications.
-- 🌱 Continuously improving my problem-solving and development skills.
+Hello! I'm Mohd Hamza, a B.Tech student in Data Science and Artificial Intelligence at Integral University, Lucknow.
+
+I'm passionate about technology and enjoy exploring different areas of software development. I'm currently building my programming fundamentals and developing practical skills through hands-on learning.
+
+- 💻 Interested in Java, backend development and full-stack development.
+- 🌐 Exploring frontend development and modern web technologies.
+- 🤖 Interested in Artificial Intelligence, Machine Learning and Data Science.
+- 🗄️ Learning to work with databases and write efficient SQL queries.
+- 🧩 Focused on improving problem-solving, logical thinking and coding skills.
 - 🏆 Received official IBM goodies in recognition of my Product Classification Analysis project.
-- 🚀 I enjoy turning ideas into projects and learning by building.
+- 🌱 Believe in continuous learning, consistency and improving one step at a time.
+
+My goal is to become a skilled software developer who can build useful, reliable and impactful applications.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Skills
 
-### 💻 Languages
+### 💻 Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python,js,html,css" alt="Java, Python, JavaScript, HTML and CSS"/>
-  <img src="https://img.shields.io/badge/SQL-Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
 </p>
 
-### ⚙️ Tools & Technologies
+### 🌐 Web Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,mysql,git,github,vscode" alt="React, MySQL, Git, GitHub and VS Code"/>
-  <img src="https://img.shields.io/badge/Power%20BI-Analytics-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
-  <img src="https://img.shields.io/badge/Databricks-Data%20Engineering-FF3621?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+</p>
+
+### 🗄️ Databases & Data
+
+<p>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
+  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks"/>
+</p>
+
+### ⚙️ Developer Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git, GitHub and VS Code"/>
 </p>
 
 ---
 
-## 🚀 Featured Projects
+## 🎯 Areas of Interest
 
-### 🧠 Product Classification Analysis
-A machine learning project focused on classifying products using text features and traditional ML techniques.
-
-- TF-IDF for text feature extraction
-- Logistic Regression for classification
-- Received IBM goodies in recognition of the project
-
-### ✊ Stone Paper Scissors
-A browser-based game built to practice JavaScript logic and interactive web development.
-
-- HTML · CSS · JavaScript
-
-### 🛒 E-Commerce Website
-A frontend project focused on website structure, styling and user interaction.
-
-- HTML · CSS · JavaScript
-
-### 🔐 Password Generator
-A small utility project for generating passwords using programming logic and user-defined options.
-
-- HTML · CSS · JavaScript
-
-<!-- Add your actual project repository links when ready. -->
+- Software Engineering & Application Development
+- Java Backend & Full-Stack Development
+- Frontend Development
+- Artificial Intelligence & Machine Learning
+- Data Science & Data Analytics
+- SQL & Database Management
 
 ---
 
-## 📊 GitHub Analytics
+## 🤝 Let's Connect!
+
+I'm always happy to connect with fellow learners, developers and technology enthusiasts.
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/hamza-khan-b6175a335/">
+    <img src="https://img.shields.io/badge/LinkedIn-Mohd_Hamza-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:mohdhmza098@gmail.com">
+    <img src="https://img.shields.io/badge/Email-mohdhmza098%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mohdhmza098&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
+### ✨ Learn • Build • Grow ✨
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohdhmza098&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
-
-<br/>
-
-<img width="70%" src="https://streak-stats.demolab.com?user=mohdhmza098&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=mohdhmza098&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub Trophies"/>
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/mohdhmza098/mohdhmza098/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation"/>
-
-</div>
-
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-I'm always interested in learning, collaborating on projects and connecting with fellow developers.
-
-<a href="https://github.com/mohdhmza098">GitHub</a> •
-<a href="https://www.linkedin.com/in/hamza-khan-b6175a335/">LinkedIn</a> •
-<a href="mailto:mohdhmza098@gmail.com">Email Me</a>
-
-<br/><br/>
-
-### ✨ Learning • Building • Improving ✨
+*Every day is an opportunity to learn something new.*
 
 </div>
 
